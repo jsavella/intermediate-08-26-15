@@ -1,4 +1,6 @@
-# intermediate-08-26-15
-
+# intermediate class
+## Augugust 26, 2016
+### Redlands, CA
 
 https://training.github.com/kit/intermediate/
+
